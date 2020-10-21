@@ -1,16 +1,17 @@
-### Hi there 👋
+### Welcome on my GitHub page 👋
 
-<!--
-**Cheriit/Cheriit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Computer Science at Poznan University of Technology;
+- 💼 Vice-president at Students' Union council of Faculty of Computing and Telecommunications;
+- 🖥️ Secretary at [@AKAI](https://github.com/akai-org) - an web development student club;
 
-Here are some ideas to get you started:
+- 🧠 I’m currently learning Keras, Kotlin and Spring
+- ⌨️ Technologies: Python (Django), SQL, PHP (Laravel), JS (ECMAScript, React, Vue), C, C++, Java (Spring) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interests
+  - 📚 Nerd & Geek
+  - 🎮 Gamer
+  - 🌌 Science enthusiast
+  - 🎧 Podcasts
+  - ⚔️🐉 Dungeons and Dragons
+
+- 📫 [@CheritPL](https://twitter.com/CheritPL) f.szostak44@gmail.com
