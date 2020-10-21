@@ -5,7 +5,7 @@
 - 🖥️ Secretary at [@AKAI](https://github.com/akai-org) - an web development student club;
 
 - 🧠 I’m currently learning Keras, Kotlin and Spring
-- ⌨️ Technologies: Python (Django), SQL, PHP (Laravel), JS (ECMAScript, React, Vue), C, C++, Java (Spring) 
+- ⌨️ Technologies: Python (Django), PHP (Laravel), JS (ECMAScript, React, Vue), C/C++, Java (Spring), SQL 
 
 - Interests
   - 📚 Nerd & Geek
