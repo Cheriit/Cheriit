@@ -7,7 +7,7 @@
 - 🧠 I’m currently learning Keras, Kotlin and Spring;
 - ⌨️ Technologies: Python (Django), Java (Spring), JS (ECMAScript, React, Vue), C/C++, PHP (Laravel), SQL ;
 
-- Interests
+- 🔎 Interests
   - 📚 Nerd & Geek
   - 🎮 Gamer
   - 🌌 Science enthusiast
