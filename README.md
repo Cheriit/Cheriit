@@ -1,10 +1,10 @@
 ### Welcome on my GitHub page 👋
 
 - 🎓 Computer Science student at Poznan University of Technology;
-- 💼 President at Students' Union Council of Faculty of Computing and Telecommunications;
-- 🖥️ President at [@AKAI](https://github.com/akai-org) - an web development student club;
+- 💼 President of Students' Union Council of Faculty of Computing and Telecommunications;
+- 🖥️ President of [@AKAI](https://github.com/akai-org) - an web development student club;
 
-- 🧠 I’m currently learning Keras, Kotlin and Spring;
+- 🧠 I’m currently learning Kotlin and Spring;
 - ⌨️ Technologies: Python (Django), Java, JS (ECMAScript, React, Vue), C/C++, PHP (Laravel), SQL ;
 
 - 🔎 Interests:
