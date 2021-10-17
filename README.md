@@ -4,8 +4,8 @@
 - 💼 President of Students' Union Council of Faculty of Computing and Telecommunications;
 - 🖥️ President of [@AKAI](https://github.com/akai-org) - an web development student club;
 
-- 🧠 I’m currently learning Kotlin and Spring;
-- ⌨️ Technologies: Python (Django), Java, JS (ECMAScript, React, Vue), C/C++, PHP (Laravel), SQL ;
+- 🧠 Currently learning Spring, Angular & GCP;
+- ⌨️ Technologies: PHP (Laravel), Python (Django), Java, JS (TypeScript, React, Vue), C/C++, SQL ;
 
 - 🔎 Interests:
   - 📚 Nerd & Geek
