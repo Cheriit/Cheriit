@@ -5,7 +5,7 @@
 - 🖥️ President of [@AKAI](https://github.com/akai-org) - an web development student club;
 
 - 🧠 Currently learning Spring, Angular & GCP;
-- ⌨️ Technologies: PHP (Laravel), Python (Django), Java, JS (TypeScript, React, Vue), C/C++, SQL ;
+- ⌨️ Technologies: PHP (Laravel), Python (Django), Java (Spring), JS (TypeScript, React, Vue, Angular), C/C++, SQL ;
 
 - 🔎 Interests:
   - 📚 Nerd & Geek
