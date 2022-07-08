@@ -1,7 +1,7 @@
 ### Welcome on my GitHub page 👋
 
 - 🎓 Computer Science student at Poznan University of Technology;
-- 💼 President of Students' Union Council of Faculty of Computing and Telecommunications;
+- 💼 Vice President of Students' Union Council of Faculty of Computing and Telecommunications;
 - 🖥️ President of [@AKAI](https://github.com/akai-org) - an web development student club;
 
 - 🧠 Currently learning Spring, Angular & GCP;
