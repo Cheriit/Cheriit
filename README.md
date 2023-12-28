@@ -1,5 +1,10 @@
-### Welcome to my GitHub page 👋
+### Hey there 👋
 
+I'm Filip Szóstak, and I'm a passionate programmer who's driven by curiosity to take care of different things!
+
+---
+
+- 🛠️ I currently work at Google in the Google Cloud Platform rea
 - 🎓 MSc. graduated from Computer Science student at Poznan University of Technology;
 - 💼 Ex-President of Students' Union Council of Faculty of Computing and Telecommunications;
 - 🖥️ Ex-President of [@AKAI](https://github.com/akai-org) - an web development student club;
